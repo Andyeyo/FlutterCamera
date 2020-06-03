@@ -1,0 +1,8 @@
+# Referenced at /home/andres/Documentos/Flutter/osm_traccar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/andres/Documentos/Flutter/osm_traccar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class com.example.osm_traccar.MainActivity { <init>(); }
+# Referenced at /home/andres/Documentos/Flutter/osm_traccar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/andres/Documentos/Flutter/osm_traccar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:49
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }

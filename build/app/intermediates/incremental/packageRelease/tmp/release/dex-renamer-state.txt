@@ -1,0 +1,4 @@
+#Wed Jun 03 12:39:32 ECT 2020
+base.0=/home/andres/Documentos/Flutter/osm_traccar/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

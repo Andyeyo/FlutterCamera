@@ -1,0 +1,4 @@
+#Wed Jun 03 14:10:25 ECT 2020
+base.0=/home/andres/Documentos/Flutter/FlutterCamera/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
